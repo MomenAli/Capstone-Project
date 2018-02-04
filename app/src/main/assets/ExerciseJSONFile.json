@@ -1,0 +1,278 @@
+/*,
+      {
+        "Name": "Bensh Crunches",
+        "Avg": "20",
+        "video": "",
+        "thumbnail": "",
+        "information":"",
+        "moreURL":""
+      }*/
+
+[
+  {
+    "id": 1,
+    "name": "Abdominal muscles",
+    "Exercises": [
+      {
+        "id":1,
+        "Name": "Decline Crunch",
+        "Avg": "20",
+        "video": "",
+        "thumbnail": "https://image.ibb.co/bL2Pg6/abs_Decline_Crunch.jpg",
+        "information":"Secure your legs at the end of the decline bench and lie down.\n\n Now place your hands lightly on either side of your head keeping your elbows in. Tip: Don't lock your fingers behind your head.\n\n While pushing the small of your back down in the bench to better isolate your abdominal muscles, begin to roll your shoulders off it.\n\nContinue to push down as hard as you can with your lower back as you contract your abdominals and exhale. Your shoulders should come up off the bench only about four inches, and your lower back should remain on the bench. At the top of the movement, contract your abdominals hard and keep the contraction for a second. Tip: Focus on slow, controlled movement - don't cheat yourself by using momentum.\n\nAfter the one second contraction, begin to come down slowly again to the starting position as you inhale.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":2,
+        "Name": "Reverse Crunch",
+        "Avg": "20",
+        "video": "",
+        "thumbnail": "http://res.cloudinary.com/dwctd1qnz/image/upload/v1517708944/BicepsIncline_Dumbbell_Curl_vpjaku.jpg",
+        "information":"Lie on your back on a decline bench and hold on to the top of the bench with both hands. Don't let your body slip down from this position.\n\nHold your legs parallel to the floor using your abs to hold them there while keeping your knees and feet together. Tip: Your legs should be fully extended with a slight bend on the knee. This will be your starting position.\n\nWhile exhaling, move your legs towards the torso as you roll your pelvis backwards and you raise your hips off the bench. At the end of this movement your knees will be touching your chest.\n\nHold the contraction for a second and move your legs back to the starting position while inhaling.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":3,
+        "Name": "Front Plank",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://thumb.ibb.co/gxN4im/abs_Front_Plank.jpg",
+        "information":"lie Face down on the floor.\n\nHolding your body's weight on your forearms nd toes, raise your body. keep the position as long as possible.",
+        "moreURL":""
+      },
+      {
+        "id":4,
+        "Name": "Twisting Crunches",
+        "Avg": "20",
+        "video": "",
+        "thumbnail": "http://get-a-wingman.com/wp-content/uploads/2017/02/workout.jpg",
+        "information":"Lay flat on the floor with your feet flat on the ground and knees at a 90 degree angle.\n\nPlace your hands behind your head or across your chest. Beginners should place them across the chest.\n\nCurl your torso towards your knees, lifting the shoulder blades off the ground. When curling up, twist so that one elbow is pointing at your knees.\n\nHold the curled position and contract the abdominal muscles for 2 seconds.\n\nRepeat to the other side.",
+        "moreURL":""
+      },
+      {
+        "id":5,
+        "Name": "Hanging Knee Raise",
+        "Avg": "20",
+        "video": "",
+        "thumbnail": "http://www.evolutionfit.it/esercizi/mappe/en-258-m.jpg",
+        "information":"Hang from a chin-up bar with both arms extended at arms length in top of you using either a wide grip or a medium grip. The legs should be straight down with the pelvis rolled slightly backwards. This will be your starting position.\n\nRaise your legs until the torso makes a 90-degree angle with the legs. Exhale as you perform this movement and hold the contraction for a second or so.\n\nGo back slowly to the starting position as you breathe in.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      }
+    ],
+    "Exercise":5,
+    "image": "abs"
+  },
+  {
+    "id": 2,
+    "name": "Biceps",
+    "Exercises": [
+      {
+        "id":1,
+        "Name": "Close Grip Chin Ups",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "http://www.evolutionfit.it/esercizi/mappe/en-224-m.jpg",
+        "information":"Grab a pullup bar with your palms facing your body and your hands three to five inches apart. Allow your arms to hang in a fully extended position.\n\nKeeping your shoulders down and away from your ears, pull yourself up until your chest touches the bar. Pause, then slowly lower yourself to the starting position.",
+        "moreURL":""
+      },
+      {
+        "id":2,
+        "Name": "Close Grip Pull Ups",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "http://www.evolutionfit.it/esercizi/mappe/en-229-m.jpg",
+        "information":"Step on a box that will allow you to grab a pull-up bar.\n\n Grab the bar with a shoulder width grip (or slightly narrower), the palms facing away from your face.\n\n Pull yourself up by flexing the elbows and extending the arms until the bars is adjacent to the upper part of your chest and try to get your body as high as possible to achieve optimal contraction of the muscles included.\n\n After reaching the peak position, lower yourself in a controlled and slow manner until you return to the original position.\n\n Repeat.\n\n",
+        "moreURL":""
+      },
+      {
+        "id":3,
+        "Name": "Barbell Drag Curl",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://i.pinimg.com/564x/d7/0b/cc/d70bcc27d0941ca5982ebab932c38b1f.jpg",
+        "information":"Grab a barbell with a supinated grip (palms facing forward) and get your elbows close to your torso and back. This will be your starting position.\n\nAs you exhale, curl the bar up while keeping the elbows to the back as you Drag the bar up by keeping it in contact with your torso. Tip: As you can see, you will not be keeping the elbows pinned to your sides, but instead you will be bringing them back. Also, do not lift your shoulders.\n\nSlowly go back to the starting position as you keep the bar in contact with the torso at all times.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":4,
+        "Name": "Barbell Curl",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://i.pinimg.com/474x/a5/59/bf/a559bf90139995e9d65885829b6953f2--muscle-building-workouts-workout-at-home.jpg",
+        "information":"Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position.\n\nWhile holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move.\n\nContinue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.\n\nSlowly begin to bring the bar back to starting position as your breathe in.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":5,
+        "Name": "Incline Dumbbell Curl",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "http://www.fitforall.club/wp-content/uploads/2017/07/f383edc6309ce6fb3d00eceb1def6b78-dumbbell-bicep-curl-biceps-curl.jpg",
+        "information":"Sit back on an incline bench with a dumbbell in each hand held at arms length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position.\n\nWhile holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second.\n\nSlowly begin to bring the dumbbells back to starting position as your breathe in.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":6,
+        "Name": "Dumbbell Hammer Curl",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "http://www.evolutionfit.it/esercizi/mappe/en-128-m.jpg",
+        "information":"Sit back on an incline bench with a dumbbell in each hand held at arms length. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward. This will be your starting position.\n\nWhile holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second.\n\nSlowly begin to bring the dumbbells back to starting position as your breathe in.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      }
+    ],
+    "Exercise": 6,
+    "image": "biceps"
+  },
+  {
+    "id": 3,
+    "name": "Triceps",
+    "Exercises": [
+      {
+        "id":1,
+        "Name": "Bench Dips",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://i.pinimg.com/564x/21/af/b4/21afb4bf531305bb34c17a4aedffb48a.jpg",
+        "information":"For this exercise you will need to place a bench behind your back. With the bench perpendicular to your body, and while looking away from it, hold on to the bench on its edge with the hands fully extended, separated at shoulder width. The legs will be extended forward, bent at the waist and perpendicular to your torso. This will be your starting position.\n\nSlowly lower your body as you inhale by bending at the elbows until you lower yourself far enough to where there is an angle slightly smaller than 90 degrees between the upper arm and the forearm. Tip: Keep the elbows as close as possible throughout the movement. Forearms should always be pointing down.\n\nUsing your triceps to bring your torso up again, lift yourself back to the starting position.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":2,
+        "Name": "Close Grip Push Ups",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://i.pinimg.com/736x/6d/f4/ea/6df4ea81d7ad25391c84a46a2cd08d54--muscle-fitness-mens-fitness.jpg",
+        "information":"Lie on the floor face down and place your hands closer than shoulder width for a close hand position. Make sure that you are holding your torso up at arms' length.\n\nLower yourself until your chest almost touches the floor as you inhale.\n\nUsing your triceps and some of your pectoral muscles, press your upper body back up to the starting position and squeeze your chest. Breathe out as you perform this step.\n\nAfter a second pause at the contracted position, repeat the movement for the prescribed amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":3,
+        "Name": "Parrallel Bars",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://i.pinimg.com/736x/84/35/5d/84355d6e17dbab1cfc8a95cf4bd84666--life-fitness-muscle-fitness.jpg",
+        "information":"Stand between a set of parallel bars. Place a hand on each bar, and then take a small jump to help you get into the starting position with your arms locked out.\n\nBegin by flexing the elbow, lowering your body until your arms break 90 degrees. Avoid swinging, and maintain good posture throughout the descent.\n\nReverse the motion by extending the elbow, pushing yourself back up into the starting position.\n\nRepeat for the desired number of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":4,
+        "Name": "Seated press",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "http://www.evolutionfit.it/esercizi/mappe/en-173-m.jpg",
+        "information":"Sit down on a bench with back support and grasp a dumbbell with both hands and hold it overhead at arm's length. Tip: a better way is to have somebody hand it to you especially if it is very heavy. The resistance should be resting in the palms of your hands with your thumbs around it. The palm of the hand should be facing inward. This will be your starting position./n/n/Keeping your upper arms close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semi-circular motion behind your head until your forearms touch your biceps. Tip: The upper arms should remain stationary and only the forearms should move. Breathe in as you perform this step./n/nGo back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step./n/nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      }
+    ],
+    "Exercise": 4,
+    "image": "triceps"
+  },
+  {
+    "id": 4,
+    "name": "Chest",
+    "Exercises": [
+      {
+        "id":1,
+        "Name": "Wide Grip Push Ups",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNnX-iUgiNqKzTkmFNGfTf3I05r8_RLgGHuUEqpGoXEaygMqh",
+        "information":"With your hands wide apart, support your body on your toes and hands in a plank position. Your elbows should be extended and your body straight. Do not allow your hips to sag. This will be your starting position.\n\nTo begin, allow the elbows to flex, lowering your chest to the floor as you inhale.\n\nUsing your pectoral muscles, press your upper body back up to the starting position by extending the elbows. Exhale as you perform this step.\n\nAfter pausing at the contracted position, repeat the movement for the prescribed amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":2,
+        "Name": "Push Ups",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbNnX-iUgiNqKzTkmFNGfTf3I05r8_RLgGHuUEqpGoXEaygMqh",
+        "information":"Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length.\n\nNext, lower yourself downward until your chest almost touches the floor as you inhale.\n\nNow breathe out and press your upper body back up to the starting position while squeezing your chest.\n\nAfter a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed.",
+        "moreURL":""
+      },
+      {
+        "id":3,
+        "Name": "Parrallel Bars",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://i.pinimg.com/736x/84/35/5d/84355d6e17dbab1cfc8a95cf4bd84666--life-fitness-muscle-fitness.jpg",
+        "information":"For this exercise you will need access to parallel bars. To get yourself into the starting position, hold your body at arms length (arms locked) above the bars.\n\nWhile breathing in, lower yourself slowly with your torso leaning forward around 30 degrees or so and your elbows flared out slightly until you feel a slight stretch in the chest.\n\nOnce you feel the stretch, use your chest to bring your body back to the starting position as you breathe out. Tip: Remember to squeeze the chest at the top of the movement for a second.\n\nRepeat the movement for the prescribed amount of repetitions.",
+        "moreURL":""
+      }
+    ],
+    "Exercise": 3,
+    "image": "chest"
+  },
+  {
+    "id": 5,
+    "name": "Shoulders",
+    "Exercises": [
+      {
+        "id":1,
+        "Name": "Single Dumbbell Front Raise",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "",
+        "information":"With a wide stance, hold a dumbell with both hands, grasping the head of the dumbbell instead of the handle. Your arms should be extended and hanging at the waist. This will be your starting position.\n\nRaise the weight until it is above shoulder level, keeping your arms extended. Your torso and hips should remain stationary throughout the movement.\n\nReturn to the starting position and repeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":2,
+        "Name": "Barbell Front Raise",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "http://www.evolutionfit.it/esercizi/mappe/en-195-m.jpg",
+        "information":"Select the desired weight and load it onto a barbell.\n\nAssume a shoulder width stance and grasp the bar at shoulder width with a pronated grip.\n\nInhale, brace your abs, and raise the arms vertically while keeping the elbows nearly locked out.\n\nOnce the arms are parallel with the floor, slowly lower the bar back to the starting position.\n\nRepeat for the desired number of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":3,
+        "Name": "Dumbbell Lateral Raise",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "data:image/jpeg;base64,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",
+        "information":"Pick a couple of dumbbells and stand with a straight torso and the dumbbells by your side at arms length with the palms of the hand facing you. This will be your starting position.\n\nWhile maintaining the torso in a stationary position (no swinging), lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward as if pouring water in a glass. Continue to go up until you arms are parallel to the floor. Exhale as you execute this movement and pause for a second at the top.\n\nLower the dumbbells back down slowly to the starting position as you inhale.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":4,
+        "Name": "Front Two Dumbbell Raise",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlINVhRxsD3MuSZih1O1XMVzGe1d7aoIXtyWjVgCv5tP27fVQO",
+        "information":"Pick a couple of dumbbells and stand with a straight torso and the dumbbells on front of your thighs at arms length with the palms of the hand facing your thighs. This will be your starting position.\n\nWhile maintaining the torso stationary (no swinging), lift the left dumbbell to the front with a slight bend on the elbow and the palms of the hands always facing down. Continue to go up until you arm is slightly above parallel to the floor. Exhale as you execute this portion of the movement and pause for a second at the top. Inhale after the second pause.\n\nNow lower the dumbbell back down slowly to the starting position as you simultaneously lift the right dumbbell.\n\nContinue alternating in this fashion until all of the recommended amount of repetitions have been performed for each arm.",
+        "moreURL":""
+      },
+      {
+        "id":5,
+        "Name": "Side Lateral Raise",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "",
+        "information":"Pick a couple of dumbbells and stand with a straight torso and the dumbbells by your side at arms length with the palms of the hand facing you. This will be your starting position.\n\nWhile maintaining the torso in a stationary position (no swinging), lift the dumbbells to your side with a slight bend on the elbow and the hands slightly tilted forward as if pouring water in a glass. Continue to go up until you arms are parallel to the floor. Exhale as you execute this movement and pause for a second at the top.\n\nLower the dumbbells back down slowly to the starting position as you inhale.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":6,
+        "Name": "Seated Dumbbell Press",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "",
+        "information":"Grab a couple of dumbbells and sit on a military press bench or a utility bench that has a back support on it as you place the dumbbells upright on top of your thighs.\n\nClean the dumbbells up one at a time by using your thighs to bring the dumbbells up to shoulder height at each side.\n\nRotate the wrists so that the palms of your hands are facing forward. This is your starting position.\n\nAs you exhale, push the dumbbells up until they touch at the top.\n\nAfter a second pause, slowly come down back to the starting position as you inhale.\n\nRepeat for the recommended amount of repetitions.",
+        "moreURL":""
+      },
+      {
+        "id":7,
+        "Name": "Dumbbell Bent Over Reverse Fly",
+        "Avg": "10",
+        "video": "",
+        "thumbnail": "",
+        "information":"Select the desired weight from the rack then take a few steps back into an open area.\n\nHinge from the hips until your body is almost parallel to the floor and allow the arms to hang straight down from the shoulders with a neutral grip.\n\nTake a deep breath and pull the dumbbells towards the ceiling using the rear deltoids.\n\nSlowly lower the dumbbells back to the starting position under control.\n\nRepeat for the desired number of repetitions.",
+        "moreURL":""
+      }
+    ],
+    "Exercise": 7,
+    "image": "shoulders"
+  }
+
+]

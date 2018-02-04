@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tx_size_large">24sp</dimen>
+    <dimen name="cover_photo_hight">180dp</dimen>
+    <dimen name="main_appbar_height">200dp</dimen>
+    <dimen name="margin_small">16dp</dimen>
+    <dimen name="tx_size_medium">12sp</dimen>
+</resources>

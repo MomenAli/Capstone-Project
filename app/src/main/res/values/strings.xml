@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fitness Coash</string>
+    <string name="sessions">Sessions</string>
+    <string name="exercises">Exercises</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sessions_tab_label">Sessions</string>
+    <string name="exercises_tab_label">Exercises</string>
+    <string name="list_item_fake_data">Title</string>
+    <string name="number_exercise_fake">10</string>
+    <string name="exercises_number_label">Exercises : </string>
+</resources>
